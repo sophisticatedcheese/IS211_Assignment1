@@ -2,8 +2,8 @@
 
 
  class Book(object):
-	author = ""
-	title = ""
+	author = " "
+	title = " "
 		
 	def __init__(ans,author,title):
 		ans.author = author
